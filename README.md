@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RakeshB1
+- 👋 Hi, I’m Rakesh S. Belligeri
 - 👀 I’m interested in creating something new using my knowledge
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on a new technology
